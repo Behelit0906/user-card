@@ -30,6 +30,24 @@ body{
     bottom: -370px;
 }
 
+.card-container{
+    width: 320px;
+    height: 330px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 180px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    
+}
+
+.header{
+    overflow: hidden;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    
+}
+
 
 
 
